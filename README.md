@@ -1,3 +1,4 @@
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fdeba6075c1e6.png?alt=media)
 <h1 align="center">Hi 👋, I'm Debanjan Paul</h1>
 <h3 align="center">A passionate full stack developer with Artificial Intelligence and Machine Learning from India</h3>
 
